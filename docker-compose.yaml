@@ -55,7 +55,7 @@ services:
   # Traefik reverse proxy for the Ollama service
   # This will route requests to the Ollama service based on the profile.
   ollama:
-    image: traefik:v2.10
+    image: traefik:latest
     ports:
       - "11435:11434"
       - "8081:8080"
