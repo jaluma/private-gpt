@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/jaluma/private-gpt/compare/0.6.1...v0.7.0) (2024-08-08)
+
+
+### Features
+
+* dummy ([5f0e1e0](https://github.com/jaluma/private-gpt/commit/5f0e1e0776eb40fdf55cb0a3bf92c8949f3ee975))
+
 ## [0.6.1](https://github.com/zylon-ai/private-gpt/compare/v0.6.0...v0.6.1) (2024-08-05)
 
 
