@@ -10,7 +10,7 @@
       },
       {
         "type": "generic",
-        "path": "docker-compose.yml"
+        "path": "docker-compose.yaml"
       }
     ],
     "packages": {
